@@ -1,9 +1,9 @@
 import requests
 from plyer import notification
 
-API_KEY = "16c9e6bfb32acd99c6da28fed1e71966"  
+API_KEY = " "  
 
-CITY = "Greater Noida"
+CITY = " "
 
 
 URL = f"http://api.openweathermap.org/data/2.5/weather?q={CITY}&appid={API_KEY}&units=metric"
